@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Chela+One|Indie+Flower|Lobster|Merienda|Pacifico');
+
+input[type="date"] {
+    padding: 11px;
+}
+
+input[type="date"]:before {
+    color: #9D9C9C;
+    content: attr(placeholder);
+}
+
+.estrellas{
+    width: 120px;
+}
+
+.menu-logo{
+    width: 200px;
+    position: fixed;
+    top:20px;
+    right: 20px;
+    z-index: 100;
+}
+
+.menu-logo img{
+    position: relative;
+    width: 100%;
+}
+
+.menu-logo .menu-logo-title{
+    position: absolute;
+    top: 100px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 0px 3px 3px rgba(0,0,0,0.7),0px -1px 1px rgba(0,0,0,0.3);
+}
+
+.imagen-felicidades{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+.imagen-felicidades img{
+    height: 100%;
+    max-width: 100%;
+}

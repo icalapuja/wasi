@@ -1,0 +1,12 @@
+com\wasi\model\Hotel.class
+com\wasi\dao\HotelDao.class
+com\wasi\dao\ReservaDao.class
+com\wasi\dao\HibernateUtil.class
+com\wasi\controller\HabitacionController.class
+com\wasi\dao\HabitacionDao.class
+com\wasi\controller\WebController.class
+com\wasi\model\Reserva.class
+com\wasi\controller\ReservaController.class
+com\wasi\model\Habitacion.class
+com\wasi\controller\HotelController.class
+com\wasi\controller\ApiRestController.class
